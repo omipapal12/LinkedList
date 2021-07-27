@@ -12,6 +12,8 @@ public class UC2Class {
         obj.add(myThirdNode);
         obj.printNodes();
         obj.pop();
+        obj.popLast();
+
 
 	}
 }
